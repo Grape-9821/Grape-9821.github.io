@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Top 5 Best Inventors</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content="Lim Yue Xin">
+		<meta name="description" content="Top 5 Inventors in Every Continent">
+		<meta name="theme-color" content="#8eecb9">
+		<link rel="icon" type="image/png" href="images/favicon_32x32.png">
+		<link rel="stylesheet" href="style.css">
+		<script src="script.js" defer></script>
+	</head>
+	<body>
+		<a href="index.html"><img class = "icon" src="images/icon.png" alt="Top 5 Best Inventors Logo"
+			width = 100 height = 110></a>
+		<header>
+		<h1 class="title">Top 5 Best North American Inventors</h1>
+		<nav class="navbar">
+			<ul>
+				<li>
+					<a href="index.html">Home</a>
+				</li> 
+				<li class="dropdown">
+					Continent 
+                    <ul class="dropdown-content">
+                        <li><a href="Africa.html">Africa</a></li>
+                        <li><a href="Asia.html">Asia</a></li>
+                        <li><a href="Europe.html">Europe</a></li>
+                        <li><a href="NorthAM.html">North America</a></li>
+                        <li><a href="SouthAM.html">South America</a></li>
+                        <li><a href="Oceania.html">Oceania</a></li>
+                    </ul>
+				</li>
+				<li>
+					<a href="ContactUs.html">Contact Us</a>
+				</li>
+			</ul>
+		</nav>
+		<main>
+			<section>
+				<figure>
+					<img class="Garrett-Morgan"
+					src="images/GarrettMorgan.jpeg"
+					width = 200 
+					height = 250 
+					alt = "A picture of Garrett Morgan"
+					>
+					<figcaption>
+						A picture of Garrett Morgan
+					</figcaption>
+				</figure>
+				<h2 class="NAname">Garrett Morgan</h2>
+				<p class="bdd">
+					March 4 1877 - July 27 1963, United States
+				</p>
+				<p class="Invention">Inventions:</p>
+				<ul>
+					<li>Three-position traffic signal</li>
+					<li>Safety hood (gas-mask prototype)</li>
+					<li>Sewing-machine improvements</li>
+				</ul>
+				<p>Facts</p>
+				<p class="facts">
+					Used his own smoke hood to rescue men trapped in a gas-filled tunnel in 1916.
+				</p>
+				<p>Impacts</p>
+				<p class="impact">
+					Improved public safety worldwide, influencing modern traffic-light and rescue-equipment designs.
+				</p>
+			</section>
+			<section>
+				<figure>
+					<img class="George-Washington-Carver"
+					src="images/GeorgeWashingtonCarver.jpeg"
+					width = 200 
+					height = 250 
+					alt = "A picture of George Washington Carver"
+					>
+					<figcaption>
+						A picture of George Washington Carver
+					</figcaption>
+				</figure>
+				<h2 class="NAname">George Washington Carver</h2>
+				<p class="bdd">
+					1864 - January 5 1943, United States
+				</p>
+				<p class="Invention">Inventions:</p>
+				<ul>
+					<li>Crop-rotation system</li>
+					<li>Peanut-based products</li>
+					<li>Sweet-potato by-products</li>
+				</ul>
+				<p>Facts</p>
+				<p class="facts">
+					Developed 300+ uses for peanuts, but never patented most to keep them free for farmers.
+				</p>
+				<p>Impacts</p>
+				<p class="impact">
+					Transformed Southern U.S. agriculture and promoted sustainability for poor farmers.
+				</p>
+			</section>
+			<section>
+				<figure>
+					<img class="Grace-Hopper"
+					src="images/GraceHopper.jpeg"
+					width = 200 
+					height = 250 
+					alt = "A picture of Grace Hopper"
+					>
+					<figcaption>
+						A picture of Grace Hopper
+					</figcaption>
+				</figure>
+				<h2 class="NAname">Grace Hopper</h2>
+				<p class="bdd">
+					December 9 1906 - January 1 1992, United States
+				</p>
+				<p class="Invention">Inventions:</p>
+				<ul>
+					<li>Computer compiler</li>
+					<li>COBOL programming language</li>
+					<li>Debugging concepts</li>
+				</ul>
+				<p>Facts</p>
+				<p class="facts">
+					Found a moth in a computer relay and coined the term “bug.”
+				</p>
+				<p>Impacts</p>
+				<p class="impact">
+					Shaped modern software engineering and influenced the entire computer industry.
+				</p>
+			</section>
+			<section>
+				<figure>
+					<img class="Guillermo-González-Camarena"
+					src="images/GuillermoGonzálezCamarena.jpeg"
+					width = 200 
+					height = 250 
+					alt = "A picture of Guillermo González Camarena"
+					>
+					<figcaption>
+						A picture of Guillermo González Camarena
+					</figcaption>
+				</figure>
+				<h2 class="NAname">Guillermo González Camarena</h2>
+				<p class="bdd">
+					February 17 1917 - April 18 1965, Mexico
+				</p>
+				<p class="Invention">Inventions:</p>
+				<ul>
+					<li>Color-wheel television system</li>
+					<li>Simplified bicolor TV adapter</li>
+					<li>Portable color camera concept</li>
+				</ul>
+				<p>Facts</p>
+				<p class="facts">
+					Built his first working TV set at age 15 using spare radio parts.
+				</p>
+				<p>Impacts</p>
+				<p class="impact">
+					His color TV technology became the basis for modern broadcasting in Latin America and beyond.
+				</p>
+			</section>
+			<section>
+				<figure>
+					<img class="Thomas-P.-Lecky"
+					src="images/ThomasP.Lecky.jpeg"
+					width = 200 
+					height = 250 
+					alt = "A picture of Thomas P. Lecky"
+					>
+					<figcaption>
+						A picture of Thomas P. Lecky
+					</figcaption>
+				</figure>
+				<h2 class="NAname">Thomas P. Lecky</h2>
+				<p class="bdd">
+					December 31 1904 - December 24 1994, Jamaica
+				</p>
+				<p class="Invention">Inventions:</p>
+				<ul>
+					<li>Jamaica Hope cattle breed</li>
+					<li>Jamaica Red cattle breed</li>
+					<li>Jamaica Black cattle breed</li>
+				</ul>
+				<p>Facts</p>
+				<p class="facts">
+					Developed tropical cattle that thrived in Jamaica's climate and produced high milk yields.
+				</p>
+				<p>Impacts</p>
+				<p class="impact">
+					Revolutionized Caribbean agriculture and boosted the region's dairy industry.
+				</p>
+			</section>
+		</main>
